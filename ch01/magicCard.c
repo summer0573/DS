@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 
+//0~31 사이의 숫자를 생각하고 질문에 대답하면 생각한 숫자를 맞춘다.
+
 enum bool{ false, true };
 
 int main(void) {
