@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="magicCard.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="primeNumber.c">
+    <ClCompile Include="factorial.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
